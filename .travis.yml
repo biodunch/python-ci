@@ -8,3 +8,4 @@ install:
 script:
   - export PYTHONPATH=$PYTHONPATH:$(pwd)
   - python app/tests/app-test.py
+  
