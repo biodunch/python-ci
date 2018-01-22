@@ -1,6 +1,6 @@
 import unittest
-import sys
-sys.path.append('/Users/biodunch/whouse/devops/PythonProj')
+#import sys
+#sys.path.append('/Users/biodunch/whouse/devops/PythonProj')
 from app.src.app import my_function
 
 class MyTest(unittest.TestCase):
